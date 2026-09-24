@@ -11,3 +11,11 @@ CORE IDEA:
 ENGLISH TITLE:
 ENGLISH CAPTION:
 NOTES:
+
+TAB: 1
+STATUS: NEW
+TOPIC: Why supermarkets place essential items far apart.
+CORE IDEA: Spreading everyday essentials across a supermarket leads shoppers past more products, creating more opportunities for unplanned purchases.
+ENGLISH TITLE: Three Essentials. A Whole Store to Cross.
+ENGLISH CAPTION: You came in for milk, bread, and eggs. So why does a short shopping list sometimes mean a long walk? When essentials sit in different parts of a supermarket, the route between them takes you past products you never planned to buy. A snack display, a special offer, something that suddenly looks useful—each becomes another opportunity to add to your basket. Layouts vary, and refrigeration and restocking needs matter too. But that extra distance can serve a commercial purpose: your shopping list brings you in, and the journey gives you more reasons to spend.
+NOTES: English-only test; leave STATUS: NEW and do not generate Chinese output until requested. Describe a common layout strategy, not a universal rule or a guarantee of impulse buying. Supporting source: https://pmc.ncbi.nlm.nih.gov/articles/PMC5607683/
