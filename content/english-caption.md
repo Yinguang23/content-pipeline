@@ -21,7 +21,7 @@ ENGLISH CAPTION: You came in for milk, bread, and eggs. So why does a short shop
 NOTES: English-only test; leave STATUS: NEW and do not generate Chinese output until requested. Describe a common layout strategy, not a universal rule or a guarantee of impulse buying. Supporting source: https://pmc.ncbi.nlm.nih.gov/articles/PMC5607683/
 
 TAB: 63
-STATUS: NEW
+STATUS: PROCESSED
 TOPIC: Broken windows theory and the message sent by visible neglect.
 CORE IDEA: Visible neglect can shape what people think others will tolerate, but a broken window does not inevitably cause neighborhood crime.
 ENGLISH TITLE: What Does a Broken Window Give Permission For?
