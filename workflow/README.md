@@ -1,3 +1,42 @@
+==================================================
+PRIMARY SOURCE — SCRIPT 3
+==================================================
+
+The canonical source for all new video content is this Google Doc:
+
+https://docs.google.com/document/d/1vUq4HrR2UixBLDlrTO1qycAAL0_oS6q16RhXiVJI2tw/edit
+
+Document name: script 3 / svgscript 3
+
+IMPORTANT:
+
+Do NOT rely on /content/english-caption.md as the original source of new ideas.
+
+Instead:
+
+1. Read the Script 3 Google Doc directly.
+2. Detect any NEW or SUBSTANTIALLY CHANGED script/tab.
+3. Treat Tabs 1–64 as the historical baseline unless explicitly told otherwise.
+4. For each new or changed script:
+   - read the full script
+   - determine what it is actually about
+   - identify its strongest concrete / counterintuitive hook
+   - generate the complete English content package
+   - generate the complete Chinese RedNote content package
+5. Preserve the original Script 3 tab number.
+6. Then write the processed English summary/output into:
+   /content/english-caption.md
+7. Write the Chinese package into:
+   /content/chinese-rednote.md
+8. Mark the tab as processed so it is not regenerated unless the source script changes substantially.
+9. Commit completed outputs directly to main.
+
+The Google Doc is the SOURCE.
+The GitHub markdown files are the OUTPUT / processing history.
+
+
+
+
 CONTENT PIPELINE — ENGLISH IDEA TO CHINESE REDNOTE PACKAGE
 
 PURPOSE
