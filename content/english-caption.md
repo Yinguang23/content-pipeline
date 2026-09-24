@@ -19,3 +19,80 @@ CORE IDEA: Spreading everyday essentials across a supermarket leads shoppers pas
 ENGLISH TITLE: Three Essentials. A Whole Store to Cross.
 ENGLISH CAPTION: You came in for milk, bread, and eggs. So why does a short shopping list sometimes mean a long walk? When essentials sit in different parts of a supermarket, the route between them takes you past products you never planned to buy. A snack display, a special offer, something that suddenly looks useful—each becomes another opportunity to add to your basket. Layouts vary, and refrigeration and restocking needs matter too. But that extra distance can serve a commercial purpose: your shopping list brings you in, and the journey gives you more reasons to spend.
 NOTES: English-only test; leave STATUS: NEW and do not generate Chinese output until requested. Describe a common layout strategy, not a universal rule or a guarantee of impulse buying. Supporting source: https://pmc.ncbi.nlm.nih.gov/articles/PMC5607683/
+
+TAB: 63
+STATUS: NEW
+TOPIC: Broken windows theory and the message sent by visible neglect.
+CORE IDEA: Visible neglect can shape what people think others will tolerate, but a broken window does not inevitably cause neighborhood crime.
+ENGLISH TITLE: What Does a Broken Window Give Permission For?
+ENGLISH CAPTION: A broken window. A message nobody wrote. 🪟 #psychology #socialnorms #learnontiktok
+NOTES: One-time user-authorized exception to the Tabs 1–64 historical baseline for an end-to-end pipeline test. Read directly from the authenticated Script 3 Google Doc, native tab t.xc4qy9b5e775. Preserve TAB 63. The source's guaranteed two-week crime cascade is unsupported and omitted. Describe environmental cues as a possible influence, not destiny; do not imply that neglect proves residents do not care or that harsh policing follows from the evidence. English variants below extend the canonical field structure as explicitly requested.
+
+20 ENGLISH TITLES:
+
+1. What Does a Broken Window Give Permission For?
+2. The Message Nobody Wrote on That Wall
+3. One Broken Window. Who Notices?
+4. Why Does “Nobody Cares” Feel Like Permission?
+5. Can a Dirty Sidewalk Change Your Choices?
+6. When a Broken Window Becomes a Signal
+7. The Rules You Read Without a Sign
+8. Would You Drop Litter Where Everyone Else Does?
+9. A Cracked Window, a Bigger Assumption
+10. What an Unfixed Window Seems to Say
+11. Is That Mess Giving You an Excuse?
+12. Who Decides What a Street Will Tolerate?
+13. What Changes When Nobody Fixes It?
+14. Can One Ignored Mess Invite Another?
+15. The Street Is Sending Mixed Signals
+16. Why a Wrapper Can Feel Like No Big Deal
+17. What Does a Repaired Window Tell You?
+18. Does a Messy Street Really Cause Crime?
+19. Before You Break a Rule, You Read the Room
+20. How Much Can One Window Really Explain?
+
+5 ENGLISH CAPTIONS:
+
+1. A broken window. A message nobody wrote. 🪟 #psychology #socialnorms #learnontiktok
+2. Would you drop that wrapper if the sidewalk were spotless? 👀 #humanbehavior #publicspaces #learnontiktok
+3. “Everyone else did it” can start with what you see on the street. 🗑️ #socialnorms #psychology #learnontiktok
+4. One broken window doesn't predict a crime wave. The signal is the interesting part. 🪟 #brokenwindowstheory #criticalthinking #learnontiktok
+5. What does a place tell you when someone finally fixes it? 🛠️ #community #urbanlife #learnontiktok
+
+PLATFORM HASHTAGS:
+
+TikTok: #learnontiktok #psychology #humanbehavior #socialnorms #brokenwindowstheory
+Instagram Reels: #Psychology #HumanBehavior #SocialNorms #UrbanLife #PublicSpaces
+YouTube Shorts: #Shorts #Psychology #SocialNorms #BrokenWindowsTheory
+
+RESEARCH NOTES:
+
+- [Keizer, Lindenberg and Steg, The Spreading of Disorder (2008)](https://research.rug.nl/en/publications/the-spreading-of-disorder/): six field experiments reported that observing norm violations could encourage other violations in those settings. This is not a universal forecast for neighborhood crime.
+- [Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC8059646/): the evidence for the proposed causal links is mixed.
+- [O'Brien, Farrell and Welsh, Looking Through Broken Windows (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3317429): a meta-analysis examines how research design affects claimed relationships between disorder, aggression and fear.
+
+SOURCE RECORD:
+
+Document: 1vUq4HrR2UixBLDlrTO1qycAAL0_oS6q16RhXiVJI2tw
+Native tab: t.xc4qy9b5e775
+Document revision at read: ANLCKQk5aL0CZSswpn02Z1oIe-6JZ8RSE_RnX9bfpm9RPEXMwXia-ryqMTepLOiRJAtRqrRDDzhY1_ljPn9uM-G7Hx-sCXIv_Zix1bOACfI
+Source SHA-256 (UTF-8, extracted text with trailing line whitespace removed): 318ed0cf57db326dc9b76949e3627f9e25c5c74f76cdaeb34f4bf8df09d7d73a
+
+<details>
+<summary>Original TAB 63 source snapshot for future change comparison (unverified script claims)</summary>
+
+```text
+If a building has one broken window that isn't repaired immediately, within two weeks all the other windows will be smashed, the walls will be tagged with graffiti, and petty crime will surge across the entire block.
+
+Why does a broken piece of glass trigger social breakdown?
+In criminology, this is the Broken Windows Theory.
+Humans do not evaluate law, order, and rules through written statutes; we evaluate social permissiveness through environmental signals.
+A single unrepaired broken window communicates a powerful subconscious message: nobody is watching, nobody is in charge, and nobody cares.
+When people see an environment where maintenance has collapsed, their baseline barrier for anti-social behavior drops. Littering leads to vandalism;
+vandalism leads to petty theft. The visual decay of the built environment literally grants psychological permission for disorder to escalate.
+Order isn't maintained just by police;
+order is maintained by the visual proof that someone gives a damn about the sidewalk you walk on.
+
+```
+
+</details>
